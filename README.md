@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 9 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (2)
+- [dp](#dp) (1)
+- [greedy](#greedy) (3)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
@@ -35,12 +36,19 @@
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 
 ### hashing
 
@@ -56,6 +64,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 
 ### math
 
