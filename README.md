@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (2)
-- [strings](#strings) (2)
+- [implementation](#implementation) (3)
+- [sortings](#sortings) (1)
+- [strings](#strings) (3)
 
 ---
 
@@ -31,6 +32,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### hashing
 
@@ -44,6 +46,13 @@
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### strings
 
@@ -51,6 +60,7 @@
 |---|---------|------------|----------|
 | 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/43/A%20-%20Football/solution.cpp) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ---
 
