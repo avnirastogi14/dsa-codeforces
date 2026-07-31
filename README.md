@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 7 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [greedy](#greedy) (2)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
+- [math](#math) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -47,6 +48,12 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 
 ### sortings
 
