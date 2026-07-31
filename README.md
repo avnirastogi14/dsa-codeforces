@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [data structures](#data-structures) (1)
+- [greedy](#greedy) (1)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -24,6 +25,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 
 ### hashing
 
@@ -42,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/43/A%20-%20Football/solution.cpp) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 
 ---
 
