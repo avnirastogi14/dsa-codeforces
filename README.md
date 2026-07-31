@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 5 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (1)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [strings](#strings) (2)
 
 ---
@@ -43,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/avnirastogi14/dsa-codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 
 ### strings
 
